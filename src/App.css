@@ -31,9 +31,23 @@
     transform: translateY(0);
   }
   50% {
-    transform: translateY(10px);
+    transform: translateY(13px);
   }
   100% {
     transform: translateY(0px);
   }
+}
+
+h1{
+  font-size: 1.75em !important;
+  font-weight: 700 !important;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.fullheight-section {
+  height: 100vh;
 }
