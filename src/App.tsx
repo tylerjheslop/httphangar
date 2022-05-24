@@ -44,7 +44,7 @@ export function App() {
 
             </header>
             <Section>
-                {/*<Heading>Websites</Heading>*/}
+                <Heading>More coming soon.</Heading>
             </Section>
         </div>
     );
